@@ -1,0 +1,39 @@
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaDatos.dll
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaDatos.pdb
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\bin\Debug\CapaLogicaNegocio.pdb
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.FormVentanaPrincipal.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.Hotel.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.PerfilMascota.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.Registro1Cliente.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.Registro2Mascota.resources
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPres.314295FC.Up2Date
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaPresentación\obj\Debug\CapaPresentación.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaDatos.dll
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaDatos.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\bin\Debug\CapaLogicaNegocio.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.FormClientes.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.FormVentanaPrincipal.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.Hotel.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.PerfilMascota.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.Registroperro1.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.Registro1Cliente.resources
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPres.314295FC.Up2Date
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaPresentación\obj\Debug\CapaPresentación.pdb

@@ -1,0 +1,18 @@
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\obj\Debug\CapaLogi.BF2FE080.Up2Date
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\programa_v0.1\Nueva carpeta\ProyectoHotelPerros_version0.1\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\obj\Debug\CapaLogi.BF2FE080.Up2Date
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ISRAEL\ProyectoHotelPerros_version0.2\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
